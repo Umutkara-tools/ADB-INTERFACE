@@ -1,5 +1,4 @@
 #!/bin/bash
-###
 if [[ $1 == güncelle ]];then
 	cd files
 	#bash güncelleme.sh güncelle
